@@ -1,4 +1,5 @@
 import './App.css';
+import './Logo .svg'
 
 function App() {
   return (
@@ -8,14 +9,16 @@ function App() {
     <meta name="og:description" content="An html attribute about little lemon"/>
     <meta name="og:image" content="Little lemon"/>
     <header>
+    <img src="src\Logo .svg" alt="logo"/>
       <nav>
-        <img src="C:\Users\DELL\littlelemon\src\Logo .svg" alt="logo"/>
         <ul>
           <li></li>
         </ul>
       </nav>
     </header>
-    <main></main>
+    <main>
+      <img src="lemon dessert.jpg" alt="Lemon dessert"/>
+    </main>
     <footer></footer></>
   );
 }
