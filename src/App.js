@@ -2,9 +2,21 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <p>My name is Maryam</p>
-    </div>
+    <>
+    <meta name="description" content="A little lemon website"/>
+    <meta name="og:title" content="Little lemon"/>
+    <meta name="og:description" content="An html attribute about little lemon"/>
+    <meta name="og:image" content="Little lemon"/>
+    <header>
+      <nav>
+        <img/>
+        <ul>
+          <li></li>
+        </ul>
+      </nav>
+    </header>
+    <main></main>
+    <footer></footer></>
   );
 }
 
