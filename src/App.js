@@ -9,7 +9,7 @@ function App() {
     <meta name="og:image" content="Little lemon"/>
     <header>
       <nav>
-        <img/>
+        <img src="C:\Users\DELL\littlelemon\src\Logo .svg" alt="logo"/>
         <ul>
           <li></li>
         </ul>
